@@ -1,0 +1,50 @@
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+venv/
+.venv/
+ENV/
+
+# Environment variables and API credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Streamlit configuration cache
+.streamlit/cache/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Downloaded machine learning models and cache
+.cache/
+huggingface_cache/
