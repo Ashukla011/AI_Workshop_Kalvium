@@ -11,7 +11,7 @@ Follow the instructions below to set up the project on your computer.
 Clone the project and move into its directory:
 
 ```bash
-[git clone https://github.com/vinayshankar-rgb/Day-1-Work.git](https://github.com/Ashukla011/AI_Workshop_Kalvium)
+https://github.com/Ashukla011/AI_Workshop_Kalvium
 cd "Day_1"
 ```
 
